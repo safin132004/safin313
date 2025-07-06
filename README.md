@@ -1,9 +1,3 @@
-<h1 align="center">Hi 👋, I'm Saharia Hassan Safin</h1>
-<h3 align="center">Driven by curiosity, secured by code — exploring the intersections of Cybersecurity, Web Development, and Artificial Intelligence.</h3>
-
-- 🌱 I’m currently learning **how to upgrade myself.**
-
-- 🤝 I’m looking for help with **DevOps**
 
 <h1 align="center">Hi 👋, I'm Saharia Hassan Safin</h1>
 <h3 align="center">Driven by curiosity, secured by code — exploring the intersections of Cybersecurity, Web Development, and Artificial Intelligence.</h3>
